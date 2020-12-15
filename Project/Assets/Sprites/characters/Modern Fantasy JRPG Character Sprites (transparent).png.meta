@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: e08b675e0c9a4204896b186ac52ac346
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6286965886306532947
+    second: Modern Fantasy JRPG Character Sprites (transparent)_0
+  - first:
+      213: 2877630181082995775
+    second: Modern Fantasy JRPG Character Sprites (transparent)_1
+  - first:
+      213: -3419098119946234991
+    second: Modern Fantasy JRPG Character Sprites (transparent)_2
+  - first:
+      213: 1592205821434998800
+    second: Modern Fantasy JRPG Character Sprites (transparent)_3
+  - first:
+      213: 6990859052623715537
+    second: Modern Fantasy JRPG Character Sprites (transparent)_4
+  - first:
+      213: 2652354969833747384
+    second: Modern Fantasy JRPG Character Sprites (transparent)_5
+  - first:
+      213: -6054766036163936240
+    second: Modern Fantasy JRPG Character Sprites (transparent)_6
+  - first:
+      213: 351988437194803780
+    second: Modern Fantasy JRPG Character Sprites (transparent)_7
+  - first:
+      213: 3728844691967189082
+    second: Modern Fantasy JRPG Character Sprites (transparent)_8
+  - first:
+      213: -5541735828121917494
+    second: Modern Fantasy JRPG Character Sprites (transparent)_9
+  - first:
+      213: -8199473537503535816
+    second: Modern Fantasy JRPG Character Sprites (transparent)_10
+  - first:
+      213: 2802174080001003245
+    second: Modern Fantasy JRPG Character Sprites (transparent)_11
+  - first:
+      213: 4794620382423916087
+    second: Modern Fantasy JRPG Character Sprites (transparent)_12
+  - first:
+      213: 6221416550238406613
+    second: Modern Fantasy JRPG Character Sprites (transparent)_13
+  - first:
+      213: -673838748949548195
+    second: Modern Fantasy JRPG Character Sprites (transparent)_14
+  - first:
+      213: -6981261520786521907
+    second: Modern Fantasy JRPG Character Sprites (transparent)_15
+  - first:
+      213: -3583746063458659821
+    second: Modern Fantasy JRPG Character Sprites (transparent)_16
+  - first:
+      213: -327714087625010007
+    second: Modern Fantasy JRPG Character Sprites (transparent)_17
+  - first:
+      213: -3819393162979140487
+    second: Modern Fantasy JRPG Character Sprites (transparent)_18
+  - first:
+      213: -4423757544692468443
+    second: Modern Fantasy JRPG Character Sprites (transparent)_19
+  - first:
+      213: -7552237401792948067
+    second: Modern Fantasy JRPG Character Sprites (transparent)_20
+  - first:
+      213: -4669416515142955326
+    second: Modern Fantasy JRPG Character Sprites (transparent)_21
+  - first:
+      213: -7661605246625052904
+    second: Modern Fantasy JRPG Character Sprites (transparent)_22
+  - first:
+      213: -1271602819960244359
+    second: Modern Fantasy JRPG Character Sprites (transparent)_23
+  - first:
+      213: 1086755057456050978
+    second: Modern Fantasy JRPG Character Sprites (transparent)_24
+  - first:
+      213: -5336099816896520590
+    second: Modern Fantasy JRPG Character Sprites (transparent)_25
+  - first:
+      213: -6280506356265989786
+    second: Modern Fantasy JRPG Character Sprites (transparent)_26
+  - first:
+      213: -1257180130040678076
+    second: Modern Fantasy JRPG Character Sprites (transparent)_27
+  - first:
+      213: -7895571600693941423
+    second: Modern Fantasy JRPG Character Sprites (transparent)_28
+  - first:
+      213: 8907040579496462459
+    second: Modern Fantasy JRPG Character Sprites (transparent)_29
+  - first:
+      213: -1858743229702023975
+    second: Modern Fantasy JRPG Character Sprites (transparent)_30
+  - first:
+      213: -4139741681020509755
+    second: Modern Fantasy JRPG Character Sprites (transparent)_31
+  - first:
+      213: -2169648661378023138
+    second: Modern Fantasy JRPG Character Sprites (transparent)_32
+  - first:
+      213: 4067204523961617470
+    second: Modern Fantasy JRPG Character Sprites (transparent)_33
+  - first:
+      213: 5445824228899552945
+    second: Modern Fantasy JRPG Character Sprites (transparent)_34
+  - first:
+      213: 6004785242006763825
+    second: Modern Fantasy JRPG Character Sprites (transparent)_35
+  - first:
+      213: -5252303757255155482
+    second: Modern Fantasy JRPG Character Sprites (transparent)_36
+  - first:
+      213: -6491402763596039641
+    second: Modern Fantasy JRPG Character Sprites (transparent)_37
+  - first:
+      213: 8126268655484671561
+    second: Modern Fantasy JRPG Character Sprites (transparent)_38
+  - first:
+      213: -6661418603272809786
+    second: Modern Fantasy JRPG Character Sprites (transparent)_39
+  - first:
+      213: -3731679223110901944
+    second: Modern Fantasy JRPG Character Sprites (transparent)_40
+  - first:
+      213: -8003655300019844564
+    second: Modern Fantasy JRPG Character Sprites (transparent)_41
+  - first:
+      213: -7451121329327446554
+    second: Modern Fantasy JRPG Character Sprites (transparent)_42
+  - first:
+      213: -2956515390203049265
+    second: Modern Fantasy JRPG Character Sprites (transparent)_43
+  - first:
+      213: -6041468863157733718
+    second: Modern Fantasy JRPG Character Sprites (transparent)_44
+  - first:
+      213: 31241849408504624
+    second: Modern Fantasy JRPG Character Sprites (transparent)_45
+  - first:
+      213: -7298134450758996956
+    second: Modern Fantasy JRPG Character Sprites (transparent)_46
+  - first:
+      213: 7703953641582367932
+    second: Modern Fantasy JRPG Character Sprites (transparent)_47
+  - first:
+      213: 4204822242341953474
+    second: Modern Fantasy JRPG Character Sprites (transparent)_1
+  - first:
+      213: 4931030572717123026
+    second: Modern Fantasy JRPG Character Sprites (transparent)_0
+  - first:
+      213: 1230095142542475196
+    second: Modern Fantasy JRPG Character Sprites (transparent)_2
+  - first:
+      213: 3073171847720282975
+    second: Modern Fantasy JRPG Character Sprites (transparent)_3
+  - first:
+      213: -1623623632067290117
+    second: Modern Fantasy JRPG Character Sprites (transparent)_4
+  - first:
+      213: 6209195040023371841
+    second: Modern Fantasy JRPG Character Sprites (transparent)_5
+  - first:
+      213: 3290521391377910375
+    second: Modern Fantasy JRPG Character Sprites (transparent)_6
+  - first:
+      213: 2024468770186205416
+    second: Modern Fantasy JRPG Character Sprites (transparent)_7
+  - first:
+      213: 2408052362060016622
+    second: Modern Fantasy JRPG Character Sprites (transparent)_8
+  - first:
+      213: -8238526615709599274
+    second: Modern Fantasy JRPG Character Sprites (transparent)_12
+  - first:
+      213: -1361430436939424360
+    second: Modern Fantasy JRPG Character Sprites (transparent)_24
+  - first:
+      213: -930594791098273194
+    second: Modern Fantasy JRPG Character Sprites (transparent)_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Modern Fantasy JRPG Character Sprites (transparent)_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 96
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5256f1e2a8e6440800000000000000
+      internalID: 4931030572717123026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern Fantasy JRPG Character Sprites (transparent)_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 96
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf14722d878a5a30800000000000000
+      internalID: 4204822242341953474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern Fantasy JRPG Character Sprites (transparent)_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 96
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf7d2bc30d221110800000000000000
+      internalID: 1230095142542475196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern Fantasy JRPG Character Sprites (transparent)_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 64
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9370e41bfdaad80800000000000000
+      internalID: -8238526615709599274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern Fantasy JRPG Character Sprites (transparent)_13
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 64
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d742b4d369e65650800000000000000
+      internalID: 6221416550238406613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern Fantasy JRPG Character Sprites (transparent)_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 64
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53f7fc5a3b06a6f0800000000000000
+      internalID: -673838748949548195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern Fantasy JRPG Character Sprites (transparent)_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d12d31b3a3b1de0800000000000000
+      internalID: -1361430436939424360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern Fantasy JRPG Character Sprites (transparent)_25
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e1bd70d7d52f5b0800000000000000
+      internalID: -5336099816896520590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern Fantasy JRPG Character Sprites (transparent)_26
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 32
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669ce299eb827d8a0800000000000000
+      internalID: -6280506356265989786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern Fantasy JRPG Character Sprites (transparent)_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65232cec7fcd513f0800000000000000
+      internalID: -930594791098273194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern Fantasy JRPG Character Sprites (transparent)_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a7ed55497e9e5a0800000000000000
+      internalID: -6491402763596039641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern Fantasy JRPG Character Sprites (transparent)_38
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9461e8f894e46c070800000000000000
+      internalID: 8126268655484671561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
